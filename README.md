@@ -20,7 +20,7 @@ matplotlib <br>
 
 # Problem Statement <br>
 
-- The problem is requires Supervised Learning. The instances come with an expected output (i.e the diamond's price).<br>
+- The problem requires Supervised Learning. The instances come with an expected output (i.e the diamond's price).<br>
 - Predicting the price of a diamond from dataset is a Regression Task. More specifically, a Multivariate Regression Task.<br>
 
 
